@@ -1,5 +1,19 @@
-body {
-  margin: 20% auto;
-  width: 50%;
-  height: 75%;
+h1{
+  color: green;
+  
 }
+
+body {
+  background-image: url('numbers.jpg');
+  margin: 20% auto;
+  width: 34%;
+  height: 75%;
+  color: white;
+  border: inset;
+  border-width: 50px;
+  }
+
+  .result{
+    size: 50px;
+    color: yellow;
+  }
